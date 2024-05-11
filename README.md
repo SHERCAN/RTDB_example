@@ -1,4 +1,4 @@
-# myapp
+# Example RTDB Firebase
 
 A new Flutter project.
 
