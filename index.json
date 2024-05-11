@@ -1,0 +1,30 @@
+{
+    "path": "/",
+    "data": {
+        "ciudad": {
+            "concesionario": {
+                "FIUQH53781": {
+                    "control": true,
+                    "mode": 1,
+                    "peticion": true,
+                    "voltage": {
+                        "GPIO32": 5,
+                        "GPIO33": 314,
+                        "GPIO34": 456,
+                        "GPIO35": 98
+                    }
+                },
+                "serial": {
+                    "activar": false,
+                    "peticion": true,
+                    "voltages": {
+                        "GPIO32": 79,
+                        "GPIO33": 453,
+                        "GPIO34": 80,
+                        "GPIO35": 66
+                    }
+                }
+            }
+        }
+    }
+}
